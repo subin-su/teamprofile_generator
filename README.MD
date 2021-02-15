@@ -2,7 +2,7 @@ In this project I have learned how to Use the Inquirer npm package to prompt the
 
 This app will run as a Node CLI to gather information about each employee.
 youtube link for vide is
-https://youtu.be/b_DPb6e63ww
+https://youtu.be/sIgOpSYJP2M
 
 Below are the screenshots of what this application  look like:
 ![image](https://user-images.githubusercontent.com/71658001/102744786-70255f80-430f-11eb-8a61-0e243ced8b7e.png)
