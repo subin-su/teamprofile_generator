@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: system-ui, sans-serif;
+  }
+
+  body {
+    color: #E64A58;
+    display:grid;
+    height: 100vh;
+  
+    /* pancake layout */
+    grid-template-rows: auto 1fr auto;
+    /* end pancake layout */
+  }
+  header {
+    padding: 2rem;
+    color: white;
+    background: #E64A58;
+    text-align: center;
+    font-size: larger;
+  }
+  .custom-card{
+    background-color: #F6F7F8 !important;
+  }
+
+  ul{
+    background-color: #FFFFFF;
+  }
