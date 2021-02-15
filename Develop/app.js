@@ -111,7 +111,7 @@ function addMember() {
 //         addHtml(member);
 //     }
 //     finishHtml();
-// }
+// }//function
 
 function startHtml() {
     const html = fs.readFileSync("./templates/main.html")
